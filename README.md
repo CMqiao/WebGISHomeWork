@@ -1,6 +1,6 @@
-# WebGIS大作业后台API文档
+# WebGIS大作业后台API文档说明
 
-# Introduction
+## Introduction
 
 * 本文档是 API 文档，符合 RESTFUL 风格，便于 web 前端调用接口。
 
@@ -14,7 +14,7 @@
 * 对于所有的请求，响应格式都是一个 JSON 对象
 * 一个 2XX 的状态码表示成功，格式如下：
 
-```
+```json
 {
   "code":0,
   "message":"",
@@ -32,4 +32,7 @@
 
 * [HTTP状态码](http://baike.baidu.com/link?url=H6rTlctgVHKJLgalwJjulT-4IsRjIoccbwjsX6p_p7NpORBVtDi8bf4zIewmSJE3SOuMku40KPL28_dqDsdLjq) 参考
 
-Copyright (C) 2017 JiZhen Qiao
+
+![文档地址]（file:///API.md）
+
+***Copyright (C) 2017 JiZhen Qiao***
