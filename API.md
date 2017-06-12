@@ -14,7 +14,7 @@ password|String|true|密码
 
 ```json
 {
-    "username":"admin",
+    "userName":"admin",
     "password":"123456"
 }
 ```
@@ -58,7 +58,7 @@ password|String|true|密码
 
 ```json
 {
-    "username":"admin",
+    "userName":"admin",
     "password":"123456"
 }
 ```
