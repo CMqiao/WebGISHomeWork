@@ -1,6 +1,15 @@
 {
-   "title": "介绍",
-    "structure": {
-        "readme": "intro.md"
+  "title": "gitbook tutorial",
+  "structure": {
+    "readme": "intro.md"
+  },
+  "links": {
+    "gitbook": false,
+    "sharing": {
+      "google": false,
+      "facebook": false,
+      "twitter": false,
+      "all": false
     }
   }
+}
