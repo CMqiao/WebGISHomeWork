@@ -1,5 +1,6 @@
 {
-"title": "gitbook tutorial",
-  "structure": {
-    "readme": "intro.md"
-  },
+   "title": "gitbook tutorial",
+    "structure": {
+        "readme": "intro.md"
+    }
+  }
