@@ -33,7 +33,7 @@
 
 * [HTTP状态码](http://baike.baidu.com/link?url=H6rTlctgVHKJLgalwJjulT-4IsRjIoccbwjsX6p_p7NpORBVtDi8bf4zIewmSJE3SOuMku40KPL28_dqDsdLjq) 参考
 
-# [文档地址](/API.md)
+# [文档地址](/chapter01.md)
 
 _**Copyright \(C\) 2017 JiZhen Qiao**_
 
