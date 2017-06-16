@@ -8,9 +8,10 @@
 
 * 开发模式：[localhost:8080](http://localhost:8080)
 
-### 请求 
+### 请求
+
 * 对于 POST 请求， 请求的主体必须是 JSON 格式，而且 HTTP header 的 Content-Type 需要设置为 **application/json**。
-### 响应格式
+  ### 响应格式
 * 对于所有的请求，响应格式都是一个 JSON 对象
 * 一个 2XX 的状态码表示成功，格式如下：
 
@@ -32,7 +33,7 @@
 
 * [HTTP状态码](http://baike.baidu.com/link?url=H6rTlctgVHKJLgalwJjulT-4IsRjIoccbwjsX6p_p7NpORBVtDi8bf4zIewmSJE3SOuMku40KPL28_dqDsdLjq) 参考
 
+# [文档地址](/API.md)
 
-# [文档地址](https://github.com/CMqiao/WebGISHomeWork/blob/master/API.md)
+_**Copyright \(C\) 2017 JiZhen Qiao**_
 
-***Copyright (C) 2017 JiZhen Qiao***
