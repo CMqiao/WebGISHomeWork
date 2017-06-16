@@ -35,16 +35,6 @@
 
 # [文档地址](/chapter01.md)
 
-```java
-public class Test{
-    public static void main(String[] args){
-
-    }
-}
-```
-
-
-
 
 
 _**Copyright \(C\) 2017 JiZhen Qiao**_
