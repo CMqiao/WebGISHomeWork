@@ -1,15 +1,20 @@
 # API文档
+
 ## 用户管理
+
 ### 注册
+
 #### Http请求
+
 * URL: /map/user/register
 * 方法：POST
 * 参数：
 
-参数名|类型|必选|说明
--|-|-|-
-userName|String|true|用户名
-password|String|true|密码
+| 参数名 | 类型 | 必选 | 说明 |
+| --- | --- | --- | --- |
+| userName | String | true | 用户名 |
+| password | String | true | 密码 |
+
 * 示例
 
 ```json
@@ -21,7 +26,7 @@ password|String|true|密码
 
 * Http响应
 
-***成功***
+_**成功**_
 
 ```json
 {
@@ -34,7 +39,7 @@ password|String|true|密码
 }
 ```
 
-***失败***
+_**失败**_
 
 ```json
 {
@@ -45,15 +50,18 @@ password|String|true|密码
 ```
 
 ### 登录
+
 #### Http请求
+
 * URL: /map/user/login
 * 方法：POST
 * 参数：
 
-参数名|类型|必选|说明
--|-|-|-
-userName|String|true|用户名
-password|String|true|密码
+| 参数名 | 类型 | 必选 | 说明 |
+| --- | --- | --- | --- |
+| userName | String | true | 用户名 |
+| password | String | true | 密码 |
+
 * 示例
 
 ```json
@@ -65,7 +73,7 @@ password|String|true|密码
 
 * Http响应
 
-***成功***
+_**成功**_
 
 ```json
 {
@@ -78,7 +86,7 @@ password|String|true|密码
 }
 ```
 
-***失败***
+_**失败**_
 
 ```json
 {
@@ -87,3 +95,6 @@ password|String|true|密码
   "data": null
 }
 ```
+
+
+
