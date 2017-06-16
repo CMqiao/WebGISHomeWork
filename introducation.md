@@ -4,7 +4,7 @@
 
 * 本文档是 API 文档，符合 RESTFUL 风格，便于 web 前端调用接口。
 
-* 测试地址：[http://www.qiaojizhen.cn](http://www.qiaojizhen.cn) 
+* 测试地址：[http://www.qiaojizhen.cn](http://www.qiaojizhen.cn)
 
 * 开发模式：[localhost:8080](http://localhost:8080)
 
